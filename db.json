@@ -1,0 +1,29 @@
+{
+    "get_leaderboard_channel":{
+        "response_data": {
+            "success" : true,
+            "to_user_id": "allies",
+            "points": 30
+        }
+    },
+
+    "get_user_lifetime": {
+        "response_data" : {
+        "success" : "true",
+        "lifetime_score" : 100
+        }
+    },
+
+    "add_points": {
+        "response_data": {
+            "success" : true,
+            "channel_name": "develop_promotion",
+            "leaderboard": [
+                {"to_user_id": "allies", "points": 7},
+                {"to_user_id": "quaiw", "points": 6}
+            ]
+        }
+    }
+ }
+
+
