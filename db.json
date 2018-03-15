@@ -21,7 +21,8 @@
             "leaderboard": [
                 {"to_user_id": "allies", "points": 7},
                 {"to_user_id": "quaiw", "points": 6}
-            ]
+            ],
+            "current_sccore" : 6
         }
     }
  }
